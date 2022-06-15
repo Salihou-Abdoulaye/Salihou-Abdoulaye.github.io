@@ -48,7 +48,7 @@ const Home = () => {
                                 top:-200,
                                 bottom:250,
                             }}
-                        >HADIDJA ALHADJI</motion.h1>
+                        >SAHANA Entreprise</motion.h1>
                         <motion.h2
                             drag 
                             onDragEnd
