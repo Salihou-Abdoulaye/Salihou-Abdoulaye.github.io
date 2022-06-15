@@ -1,0 +1,4 @@
+fontawesome cdn // meilleur site pour avoir des cdn des icones
+target="_blank" // tu me l'ouvres dans une autre page
+npm i react-copy-to-clipboard // bibliothèque de react pour faire des copies automatiques
+framer motion js // bibliothèque pour faire les animations
